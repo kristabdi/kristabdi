@@ -22,7 +22,7 @@ You can find me on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
-[1.2]: https://ibb.co/WKrxF2P
+[1.2]: <img src= "https://i.ibb.co/C0j1vHM/logo-ig-logo-abundant-instagram-logo-simple-icon-1.png" width ="30px">
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
