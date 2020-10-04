@@ -2,6 +2,11 @@
 
 My name is Kristo Abdi and I'm a student at Sekolah Teknik Elektro dan Informatika, Bandung Institute of Technology. I'm from Semarang and currently learning some programming languages to tighten my skills. Any support or suggestion will be welcomed. Thanks!
 
+## Blog & Writing
+
+I also maintain and writing on a blog. You can find and read some on [![here][1]].
+[2]: https://www.medium.com/kristabdi/
+
 <!--
 **Zeus-s/Zeus-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
