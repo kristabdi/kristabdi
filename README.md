@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Contact 
 
 You can find me on [![LinkedIn][2.2]][2].
 
