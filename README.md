@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- Actual text -->
+> Everyone knows what they're doing, some know how they do it, but very few know why they do what they're doing. Purpose gives us strength tht ambition cannot provide.
 
 You can find me on [![LinkedIn][2.2]][2].
 
