@@ -29,3 +29,5 @@ You can find me on [![LinkedIn][2.2]][2].
 
 [1]: https://instagram.com/kristabdi
 [2]: https://www.linkedin.com/in/kristabdi/
+
+![](https://img.shields.io/badge/<Code>-<C++>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
