@@ -6,14 +6,8 @@ My name is Kristo Abdi and I'm a student at Sekolah Teknik Elektro dan Informati
 
 I also maintain and writing on a blog. You can find and read some on [here](https://www.medium.com/kristabdi/).
 
-<!--
-**Zeus-s/Zeus-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently studying at Institut Teknologi Bandung.
-- 🌱 I’m currently learning C++ and Python.
-- 💬 Ask me about ...
+🌱 I’m currently learning C++ and Python.
+💬 Ask me about ...
 
 ## Contact 
 
