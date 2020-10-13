@@ -1,6 +1,6 @@
 # Hello, folks! 👋
 
-My name is Kristo Abdi and I'm a student at Sekolah Teknik Elektro dan Informatika, Bandung Institute of Technology. I'm from Semarang and currently learning some programming languages to tighten my skills. Any support or suggestion will be welcomed. Thanks!
+My name is Kristo Abdi and I'm a student at Sekolah Teknik Elektro dan Informatika, Bandung Institute of Technology. Currently I'm learning some programming languages to tighten my skills. Any support or suggestion will be welcomed. Thanks!
 
 ## Blog & Writing
 
