@@ -5,7 +5,7 @@ My name is Kristo Abdi and I'm a student at Sekolah Teknik Elektro dan Informati
 ## Blog & Writing
 
 I also maintain and writing on a blog which have some solutions for [TLX problems](https://tlx.toki.id.) but not yet completed. You can find and read some on [here](https://www.medium.com/kristabdi/).
-🌱 I’m currently learning C++ and Python.
+I’m currently learning C++ and Python. Looking forward to learn any developing skills that can be helpful for my career.
 
 ## Contact 
 
