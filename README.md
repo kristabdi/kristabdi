@@ -19,7 +19,7 @@ You can find me on [![LinkedIn][2.2]][2].
 ![](https://img.shields.io/badge/<Source>-<Git>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ### Github Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Zeus-s&theme=vue-dark&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Zeus-s&theme=tokyonight&show_icons=true)
 
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeus-s&layout=compact&theme=vue-dark&theme=vue-dark&show_owner=true)]
