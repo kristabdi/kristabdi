@@ -18,6 +18,10 @@ You can find me on [![LinkedIn][2.2]][2].
 ![](https://img.shields.io/badge/<Code>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Source>-<Git>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
+### Github Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Zeus-s&theme=onedark&show_icons=true)
+
+### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeus-s&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 > _Everyone knows what they're doing, some know how they do it, but very few know why they do what they're doing. Purpose gives us strength that ambition cannot provide._
