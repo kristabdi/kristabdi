@@ -15,5 +15,7 @@ You can find me on [![LinkedIn][2.2]][2].
 [2]: https://www.linkedin.com/in/kristabdi/
 
 ![](https://img.shields.io/badge/<Code>-<C++>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Code>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Source>-<Git>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 > _Everyone knows what they're doing, some know how they do it, but very few know why they do what they're doing. Purpose gives us strength that ambition cannot provide._
