@@ -22,11 +22,11 @@ You can find me on [![LinkedIn][2.2]][2].
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Zeus-s&theme=vue-dark&show_icons=true)
 
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeus-s&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeus-s&layout=compact&theme=vue-dark&theme=vue-dark&show_owner=true)]
 
 ### Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zeus-s&repo=cpsolutions)]
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zeus-s&repo=To-Binarry-App)]
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zeus-s&repo=Rock-Paper-Scissors-Game)]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zeus-s&repo=cpsolutions&theme=vue-dark)]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zeus-s&repo=ToBinarry-App&theme=vue-dark)]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zeus-s&repo=RockPaperScissors-Game&theme=vue-dark)]
 
 > _Everyone knows what they're doing, some know how they do it, but very few know why they do what they're doing. Purpose gives us strength that ambition cannot provide._
