@@ -22,7 +22,7 @@ You can find me on [![LinkedIn][2.2]][2].
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Zeus-s&theme=tokyonight&show_icons=true)
 
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeus-s&layout=compact&theme=vue-dark&theme=vue-dark&show_owner=true)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeus-s&layout=compact&theme=vue-dark&theme=vue-dark&show_owner=true)
 
 ### Repositories
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zeus-s&repo=cpsolutions&theme=vue-dark)
