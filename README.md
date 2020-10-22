@@ -9,7 +9,7 @@ I’m currently learning C++ and Python. Looking forward to learn any developing
 
 ### Contact 
 
-You can find me on [![LinkedIn][2.2]][2].
+You can reach me on [![LinkedIn][2.2]][2].
 
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 [2]: https://www.linkedin.com/in/kristabdi/
