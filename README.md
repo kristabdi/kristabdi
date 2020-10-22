@@ -25,8 +25,8 @@ You can reach me on [![LinkedIn][2.2]][2].
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeus-s&layout=compact&theme=vue-dark&theme=vue-dark)
 
 ### Repositories
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zeus-s&repo=cpsolutions&theme=vue-dark&show_owner=true)(https://github.com/Zeus-s/cpsolutions/)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zeus-s&repo=ToBinary-App&theme=vue-dark&show_owner=true)(https://github.com/Zeus-s/ToBinary-App/)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zeus-s&repo=RockPaperScissors-Game&theme=vue-dark&show_owner=true)(https://github.com/Zeus-s/RockPaperScissors-Game/)
+![ReadMe Card][(https://github-readme-stats.vercel.app/api/pin/?username=Zeus-s&repo=cpsolutions&theme=vue-dark&show_owner=true)](https://github.com/Zeus-s/cpsolutions/)
+![ReadMe Card][(https://github-readme-stats.vercel.app/api/pin/?username=Zeus-s&repo=ToBinary-App&theme=vue-dark&show_owner=true)](https://github.com/Zeus-s/ToBinary-App/)
+![ReadMe Card][(https://github-readme-stats.vercel.app/api/pin/?username=Zeus-s&repo=RockPaperScissors-Game&theme=vue-dark&show_owner=true)](https://github.com/Zeus-s/RockPaperScissors-Game/)
 
 > _Everyone knows what they're doing, some know how they do it, but very few know why they do what they're doing. Purpose gives us strength that ambition cannot provide._
