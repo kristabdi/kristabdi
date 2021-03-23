@@ -5,7 +5,7 @@ I'm Kristo Abdi, a student at Sekolah Teknik Elektro dan Informatika, Bandung In
 ### Blog & Writing
 
 I also maintain and writing on a blog. You can find and read some on [here](https://www.medium.com/kristabdi/).
-I’m currently learning C++ and Python. Looking forward to learn any developing skills that can be helpful for my career.
+Looking forward to learn any developing skills that can be helpful for my career.
 
 ### Contact 
 
