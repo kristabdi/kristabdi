@@ -1,11 +1,6 @@
 # Hello, folks! 👋
 
-I'm Kristo Abdi, a student at Sekolah Teknik Elektro dan Informatika, Bandung Institute of Technology. Currently I'm learning some programming languages to tighten my skills. Any support or suggestions will be welcomed.
-
-### Blog & Writing
-
-I also maintain and writing on a blog. You can find and read some on [here](https://www.medium.com/kristabdi/).
-Looking forward to learn any developing skills that can be helpful for my career.
+I'm Kristo Abdi, a student at Sekolah Teknik Elektro dan Informatika, Bandung Institute of Technology. Currently I'm learning some programming languages to tighten my skills. Looking forward to learn any developing skills that can be helpful for my career.
 
 ### Contact 
 
