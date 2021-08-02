@@ -1,6 +1,6 @@
 # Hello, folks! 👋
 
-I'm Kristo Abdi, a student at Informatics, Bandung Institute of Technology. Currently I'm learning some programming languages to tighten my skills. Looking forward to learn any developing skills that can be helpful for my career.
+I'm Kristo Abdi Wiguna, a student at Informatics, Bandung Institute of Technology. Currently I'm learning some programming languages to tighten my skills. Looking forward to learn any developing skills that can be helpful for my career.
 
 ### Contact 
 
