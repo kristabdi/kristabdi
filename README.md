@@ -14,13 +14,13 @@ You can reach me on [![LinkedIn][2.2]][2].
 ![](https://img.shields.io/badge/<Source>-<Git>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ### Github Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Zeus-s&theme=tokyonight&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kristabdi&theme=tokyonight&show_icons=true&count_private=true)
 
 ### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeus-s&layout=compact&theme=vue-dark&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristabdi&layout=compact&theme=vue-dark&theme=vue-dark)
 
 ### Repositories
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zeus-s&repo=cpsolutions&theme=vue-dark&show_owner=true)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zeus-s&repo=Zeus-s.github.io&theme=vue-dark&show_owner=true)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kristabdi&repo=cpsolutions&theme=vue-dark&show_owner=true)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kristabdi&repo=kristabdi.github.io&theme=vue-dark&show_owner=true)
 
 > _Everyone knows what they're doing, some know how they do it, but very few know why they do what they're doing. Purpose gives us strength that ambition cannot provide._
