@@ -4,7 +4,7 @@ I'm Kristo Abdi Wiguna, a student at Informatics, Bandung Institute of Technolog
 
 ### Contact 
 
-You can reach me on [![LinkedIn][2.2]][2].
+You can reach me on [![LinkedIn][2.2]][2]].
 
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 [2]: https://www.linkedin.com/in/kristabdi/
